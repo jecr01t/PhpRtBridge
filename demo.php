@@ -3,7 +3,7 @@
 require 'PhpRtBridge.php';
 
 
-// The values below make sense in the instance I was running the tests.
+// The values below make sense in the instance where development/testing was done.
 // You need to set the values that make sense to your case
 $email = 'customer1@localhost';
 
@@ -23,7 +23,7 @@ $AttachmentId  = 67;
 
 
 ///////
-// Regular cases
+// Basic cases
 ///////
 
 $use_cases = [
