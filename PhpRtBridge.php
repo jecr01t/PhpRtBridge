@@ -1,19 +1,19 @@
 <?php
 
-/**
- * Rt Datasource
- *
- * @package     PhpRtBridge
- * @since       2012
- * @license     Mit license
- * @author      Hugo Escobar
- */
+/* vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4: */
 
 /**
  * PhpRtBridge
  *
+ * @package     PhpRtBridge
+ * @since       2012
+ * @license     Mit license
+ * @author      Hugo Escobar <hjecr01t@gmail.com>
  */
 
+/**
+ * PhpRtBridge
+ */
 class PhpRtBridge
 {
     /** RT server's full url */
